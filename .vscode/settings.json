@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    "**/.gitignore": true,
+    "**/.git": true,
+    "**/.vscode": true
+},
+"actions": [],
+"sqltools.connections": [
+    {
+        "dialect": "SQLite",
+        "name": "zvks.db.sqlite",
+        "database": "/home/user/projects/po/db/sqlite.db"
+    }
+]
+}
