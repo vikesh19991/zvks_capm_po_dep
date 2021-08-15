@@ -1,9 +1,8 @@
 # Introduction
-Demonstration of fullstack PO Applicaiton development
+Demonstration of fullstack PO Application development
 - Data Model (Entity, Aspects, Annotations, Localization, In-Memory, Local Database)
-- Service (Entity, Annotations, Localizaiton, Service Handler implementing CRUD using CQL)
-- UI (Fiori Elements, Annotaitons)
-
+- Service (Entity, Annotations, Localizaiton, Service Handler implementing Actions (todo), Function Imports (todo) )
+- UI (Fiori Elements, Annotations)
 
 # Getting Started
 
