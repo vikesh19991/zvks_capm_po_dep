@@ -1,3 +1,5 @@
+namespace zvks.srv.po_annot;
+
 using {zvks.srv.po_service.PurchaseOrderSRV} from './po-service';
 
 @path : '/PurchaseOrderSRV'
