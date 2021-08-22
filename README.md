@@ -1,8 +1,13 @@
 # Introduction
-Demonstration of fullstack PO Application development
-- Data Model (Entity, Aspects, Annotations, Localization, In-Memory, Local Database)
-- Service (Entity, Annotations, Localizaiton, Service Handler implementing Actions (todo), Function Imports (todo) )
-- UI (Fiori Elements, Annotations)
+Demonstration of Deployment using https://github.com/vikesh19991/zvks_capm_po_undep.git
+- Create HANA DB Instance and Start the instance
+- Add HANA Configuration
+- Generate MTA.YAML
+- Add UI Module to MTA.YAML
+- Add embedded Approuter to the UI Module
+- Exclude local CSV file
+- Generate MTA Archive and Deploy 
+
 
 # Getting Started
 
