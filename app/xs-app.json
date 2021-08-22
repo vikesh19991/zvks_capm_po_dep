@@ -1,0 +1,15 @@
+{ 
+  "welcomeFile": "po-app/webapp/", 
+  "authenticationMethod": "route",
+  "routes": [ 
+    { 
+      "source": "^/po-app/webapp/(.*)$", 
+      "target": "$1", 
+      "localDir": "po-app/webapp/" 
+    }, 
+    { 
+      "source": "^/(.*)", 
+      "destination": "srv-api"             			
+    } 
+  ] 
+}
