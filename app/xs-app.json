@@ -1,6 +1,6 @@
 { 
   "welcomeFile": "po-app/webapp/", 
-  "authenticationMethod": "route",
+  "authenticationMethod": "none",
   "routes": [ 
     { 
       "source": "^/po-app/webapp/(.*)$", 
